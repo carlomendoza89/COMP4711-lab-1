@@ -1,10 +1,4 @@
 <?php
-/**
- * Created by PhpStorm.
- * User: Carlo
- * Date: 2019-01-08
- * Time: 9:04 PM
- */
 
 /**
  * Class Student
